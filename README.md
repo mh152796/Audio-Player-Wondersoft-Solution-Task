@@ -15,6 +15,7 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-git remote add origin https://github.com/mh152796/Audio-Player-Wondersoft-Solution-Task.git
+![home](https://github.com/mh152796/Audio-Player-Wondersoft-Solution-Task/assets/68784322/f646b1c2-1f9e-4c52-b91b-441cacfa6e18)
 
-git remote add origin https://github.com/mh152796/Audio-Player-Wondersoft-Solution-Task.git
+![bottom sheet](https://github.com/mh152796/Audio-Player-Wondersoft-Solution-Task/assets/68784322/cdabc289-d3c9-401a-8011-1883e960b864)
+
